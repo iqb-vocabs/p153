@@ -1,5 +1,5 @@
 {
-  "name": "p53",
+  "name": "p153",
   "version": "0.11.0",
   "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "license": "CC0-1.0",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iqb-vocabs/p53.git"
+    "url": "git+https://github.com/iqb-vocabs/p153.git"
   },
   "bugs": {
-    "url": "https://github.com/iqb-vocabs/p53/issues"
+    "url": "https://github.com/iqb-vocabs/p153/issues"
   },
-  "homepage": "https://github.com/iqb-vocabs/p53#readme",
+  "homepage": "https://github.com/iqb-vocabs/p153#readme",
   "dependencies": {
-    "@iqb/validate-md-profile": "^0.9.1"
+    "@iqb/validate-md-profile": "0.10.5"
   }
 }
