@@ -8,7 +8,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "IQB Englisch Sek I - Aufgabe"
 
-ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p153/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p153/master/unit.json)
+ID of profile: [https://w3id.org/iqb/p153/unit/](https://w3id.org/iqb/p153/unit/)
 
 ### Stimulus
 
@@ -48,7 +48,7 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p153/master/unit.js
 
 ## Profil "IQB Englisch Sek I - Item"
 
-ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p153/master/item.json](https://raw.githubusercontent.com/iqb-vocabs/p153/master/item.json)
+ID of profile: [https://w3id.org/iqb/p153/item/](https://w3id.org/iqb/p153/item/)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
